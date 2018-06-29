@@ -240,8 +240,8 @@ public class TokenRead {
 	   
 		File folderin = new File(inFile);
 		
-		//File folder = new File("/Users/Sunil/Documents/workspace/TokenRead/inputFiles");
-		///Users/Sunil/Desktop/Vani
+		//File folder = new File("/Users/../TokenRead/inputFiles");
+		
 
 		folderin = new File(inFile);
 		
