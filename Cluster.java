@@ -155,7 +155,7 @@ public class Cluster {    //new
 	
 	public static void main(String[] args) throws NumberFormatException, IOException {
 
-		File in = new File("/Users/vaniks/Desktop/Project/Phase2_output"); // change the path
+		File in = new File("/Users/../Project/Phase2_output"); // change the path
 		
 		String token;
 		int totalDoc =0;  
