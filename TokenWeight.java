@@ -188,8 +188,7 @@ public class TokenWeight {
 				System.out.println("Time taken for term weight Calculation(in Milisecs) "+ filename.getName()+"," + endf);
 			}			
 		}
-		///Users/Sunil/Documents/workspace/TermWeight/InputFiles 
-		///Users/Sunil/Documents/workspace/TermWeight/outputFiles
+		
 		long endTime = System.currentTimeMillis() - startTime;
 		System.out.println("\nTotal Time Taken "+ endTime + "milisecs");		
 		
